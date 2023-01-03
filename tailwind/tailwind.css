@@ -38,15 +38,20 @@ nav{
 }
 .input{
   background-color: #3a3b3c !important;
-  color: white !important;
+  color: #b8bbbf !important;
 }
 li{
-  color: #fdfdfd;
+  color: #b8bbbf;
   z-index: 98;
 }
 #friend1{
-  background-color: black !important;
+  background-color: #242526 !important;
+  color:#b8bbbf;
 }
+.spantxt{
+  color:#b8bbbf;
+}
+
 #set{
   background-color: #3a3b3c !important;
 }
@@ -55,18 +60,19 @@ li{
 }
 li:hover{
   background-color: #353535 !important;
-  color: white !important;
+  color: #b8bbbf !important;
 }
 body {
   margin: 0;
-  background-color: black !important;
+  background-color: #181920 !important;
 }
 .nac-class{
-  background-color: black !important;
+  background-color: #242526 !important;
 }
 .card{
   background-color: #242526 !important;
 }
+
 .btn{
   background-color: #3a3b3c !important;
   text-align: center;
@@ -76,10 +82,13 @@ body {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
   font-weight: 600;
-  color: #b8b9ba !important; 
+  color: #b8bbbf !important; 
+}
+svg{
+  color: #b8bbbf !important;
 }
 .btn2:hover{
-  background-color: #4e4f50 !important;
+  background-color: #3a3b3c !important;
 }
 
 .btn:hover{
@@ -87,7 +96,7 @@ body {
   
 }
 .btn1{
-  background-color: black !important;
+  background-color: #181920 !important;
 }
 .btn1:hover{
   background-color: #4e4f50 !important;
